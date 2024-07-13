@@ -300,11 +300,11 @@ const router = express.Router();
 app.use("/api", router);
 
 router.get("/albums", (_req, res) => {
-  res.json({ message: "Data berhasil didapatkan.", data: albums });
+  res.json(albums);
 });
 
 router.get("/artist", (_req, res) => {
-  res.json({ message: "Data berhasil didapatkan.", data: artist });
+  res.json(artist);
 });
 
 app.listen(process.env.API_PORT, () =>
