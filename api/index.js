@@ -299,11 +299,11 @@ app.use(express.json());
 const router = express.Router();
 app.use("/api", router);
 
-router.get("/albums/get-all", (_req, res) => {
+router.get("/albums", (_req, res) => {
   res.json({ message: "Data berhasil didapatkan.", data: albums });
 });
 
-router.get("/artist/get-all", (_req, res) => {
+router.get("/artist", (_req, res) => {
   res.json({ message: "Data berhasil didapatkan.", data: artist });
 });
 
