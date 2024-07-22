@@ -166,6 +166,173 @@ const albums = [
     title: "i will, i`m sure",
     embed: "https://embed.music.apple.com/id/album/i-will-im-sure/1742523261",
   },
+  {
+    id: 21,
+    artist: "Suara Kayu",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/72/aa/9972aae1-78a6-d539-ed99-4c7ab75577d9/5021732423931.jpg/316x316bb.webp",
+    title: "Banyak Canda, Tapi Serius",
+    embed:
+      "https://embed.music.apple.com/id/album/banyak-canda-tapi-serius/1755352376",
+  },
+  {
+    id: 22,
+    artist: "NonaRia",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/92/dd/ce92dd98-d861-d146-123a-5cb160d830bc/8994925316747.png/316x316bb.webp",
+    title: "Dengarkanlah Radio",
+    embed:
+      "https://embed.music.apple.com/id/album/dengarkanlah-radio/1754901074",
+  },
+  {
+    id: 23,
+    artist: "The Jansen",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/dc/ad/6fdcad54-7125-7341-8d7a-0211f7ddfae9/5063501184384_cover.jpg/316x316bb.webp",
+    title: "Durja Bersahaja",
+    embed: "https://embed.music.apple.com/id/album/durja-bersahaja/1754951099",
+  },
+  {
+    id: 24,
+    artist: "MALIQ & D`Essensitals",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/13/61/a0136197-e360-e5fc-427b-eaeacc3fa862/5021732381811.jpg/316x316bb.webp",
+    title: "CAN MACHINES FALL IN LOVE?",
+    embed:
+      "https://embed.music.apple.com/id/album/can-machines-fall-in-love/1746334964",
+  },
+  {
+    id: 25,
+    artist: "Fabio Asher",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/3a/6b/983a6b87-c7d6-545a-580c-4ecd6e52af31/796728416406.png/316x316bb.webp",
+    title: "Everlast",
+    embed: "https://embed.music.apple.com/id/album/everlast/1745634066",
+  },
+  {
+    id: 26,
+    artist: "Natasya Elvira",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/9a/24/039a245d-af53-a79a-5633-ee504e9562aa/artwork.jpg/316x316bb.webp",
+    title: "Cinema",
+    embed: "https://embed.music.apple.com/id/album/cinema/1749357091",
+  },
+  {
+    id: 27,
+    artist: "Dongker",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/f1/1a/b0f11a67-7f32-0337-71b1-fffc84cead75/196922981128_Cover.jpg/316x316bb.webp",
+    title: "Ceriwis Necis",
+    embed: "https://embed.music.apple.com/id/album/ceriwis-necis/1746551711",
+  },
+  {
+    id: 28,
+    artist: "cellosux",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/8d/b1/4f8db154-988f-7083-41f1-328827bfb152/090387991183.png/316x316bb.webp",
+    title: "Sorry for Everything Goodbye Forever",
+    embed:
+      "https://embed.music.apple.com/id/album/sorry-for-everything-goodbye-forever/1744551092",
+  },
+  {
+    id: 29,
+    artist: "Ardhito Pramono",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/2d/b9/d32db91c-8de3-9fc8-f04c-526514562e21/cover.jpg/316x316bb.webp",
+    title: "Roadtrip",
+    embed: "https://embed.music.apple.com/id/album/roadtrip/1744543153",
+  },
+  {
+    id: 30,
+    artist: "Clever Moose",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/31/bb/fb31bbc1-efb8-b8e3-d7fe-0961e747b2de/cover.jpg/316x316bb.webp",
+    title: "Mediterranean Fuzz",
+    embed:
+      "https://embed.music.apple.com/id/album/mediterranean-fuzz/1738070289",
+  },
+  {
+    id: 31,
+    artist: "skandal",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/90/9b/dd909b76-2605-af5e-10e2-29fdb9d577d0/cover.jpg/316x316bb.webp",
+    title: "Dengar - EP",
+    embed: "https://embed.music.apple.com/id/album/dengar-ep/1740124208",
+  },
+  {
+    id: 32,
+    artist: "JKT48",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/21/24/cd/2124cdda-637f-9992-2ced-077341164ab9/cover.jpg/316x316bb.webp",
+    title: "Special Stage Banzai",
+    embed:
+      "https://embed.music.apple.com/id/album/special-stage-banzai/1736669379",
+  },
+  {
+    id: 33,
+    artist: "The Lantis",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/f1/1a/b0f11a67-7f32-0337-71b1-fffc84cead75/196922981128_Cover.jpg/316x316bb.webp",
+    title: "Pancarona",
+    embed: "https://embed.music.apple.com/id/album/pancarona/1733730997",
+  },
+  {
+    id: 34,
+    artist: "Ghea Indrawati",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/01/bf/d601bfb1-2c70-f9cd-2af9-4fcc14658147/cover.jpg/316x316bb.webp",
+    title: "Berdamai",
+    embed: "https://embed.music.apple.com/id/album/berdamai/1731790487",
+  },
+  {
+    id: 35,
+    artist: "Aziz Hendra",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c3/49/12/c349120f-fe9e-47be-2ddf-dbc6d1804a81/196871889803.jpg/316x316bb.webp",
+    title: "Lesson - EP",
+    embed: "https://embed.music.apple.com/id/album/lesson-ep/1732992009",
+  },
+  {
+    id: 36,
+    artist: "Sheryl Sheinafia",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e4/8a/e6/e48ae6cd-b787-6a2d-a957-468f370edf42/cover.jpg/316x316bb.webp",
+    title: "i am done with you",
+    embed:
+      "https://embed.music.apple.com/id/album/i-am-done-with-you/1732398652",
+  },
+  {
+    id: 37,
+    artist: "LAIR",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/93/8c/de938c1a-1403-f9a6-91b8-12855e77eee7/859784043495_cover.jpg/316x316bb.webp",
+    title: "Ngélar",
+    embed: "https://embed.music.apple.com/id/album/ng%C3%A9lar/1730198901",
+  },
+  {
+    id: 38,
+    artist: "Sunwich",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/99/7f/f9/997ff9d1-0e99-c663-2e66-0e6af59b7780/cover.jpg/316x316bb.webp",
+    title: "Apophenia",
+    embed: "https://embed.music.apple.com/id/album/apophenia/1728893776",
+  },
+  {
+    id: 39,
+    artist: "Aruma",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/55/83/ed/5583ed03-b0ed-9a87-3b61-1dcfef6c7b94/196871852067.jpg/316x316bb.webp",
+    title: "Bertumbuh - EP",
+    embed: "https://embed.music.apple.com/id/album/bertumbuh-ep/1731959844",
+  },
+  {
+    id: 40,
+    artist: "Jangar",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/98/b3/a6/98b3a6bf-66e7-3c0a-8603-935fb332082b/cover.jpg/316x316bb.webp",
+    title: "Malam - EP",
+    embed: "https://embed.music.apple.com/id/album/malam-ep/1726332949",
+  },
 ];
 
 const artist = [
